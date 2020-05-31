@@ -2,10 +2,7 @@ package programantrianbank;
 
 import java.util.Scanner;
 
-/**
- *
- * @author HANIF PRANATA
- */
+//Hamdy Wahid E31192285//
 public class bank {
 
     int id;

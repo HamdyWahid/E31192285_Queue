@@ -1,9 +1,7 @@
 package programantrianbank;
 
-/**
- *
- * @author HANIF PRANATA
- */
+//Hamdy Wahid E31192285//
+
 public class linked {
 
     bank head, tail;
